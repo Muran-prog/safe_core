@@ -43,7 +43,7 @@ pre-commit>=3.3.0,<4.0.0              # Git hooks
 
 # Build and Distribution
 build>=0.10.0,<2.0.0                  # Build tool
-setuptools>=68.0.0,<71.0.0            # Package installer
+setuptools>=68.0.0,<81.0.0            # Package installer
 wheel>=0.41.0,<1.0.0                  # Wheel builder
 twine>=4.0.0,<6.0.0                   # PyPI uploader
 
