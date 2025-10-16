@@ -33,7 +33,7 @@ bandit>=1.7.5,<2.0.0                  # Security linter
 
 # Documentation
 sphinx>=7.1.0,<8.0.0                  # Documentation generator
-sphinx-rtd-theme>=1.3.0,<3.0.0        # ReadTheDocs theme
+sphinx-rtd-theme>=1.3.0,<4.0.0        # ReadTheDocs theme
 sphinx-autodoc-typehints>=1.24.0      # Type hints in docs
 
 # Development Tools
