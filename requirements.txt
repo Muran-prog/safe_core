@@ -8,7 +8,7 @@
 
 # Core cryptographic libraries
 cryptography>=41.0.0,<44.0.0          # AEAD ciphers (AES-GCM, ChaCha20-Poly1305)
-argon2-cffi>=23.1.0,<24.0.0           # Argon2id key derivation function
+argon2-cffi>=23.1.0,<26.0.0           # Argon2id key derivation function
 
 # ==============================================================================
 # DEVELOPMENT DEPENDENCIES (Optional)
