@@ -18,7 +18,7 @@ argon2-cffi>=23.1.0,<24.0.0           # Argon2id key derivation function
 
 # Testing Framework
 pytest>=7.4.0,<9.0.0                  # Test framework
-pytest-asyncio>=0.21.0,<1.0.0         # Async test support
+pytest-asyncio>=0.21.0,<2.0.0         # Async test support
 pytest-cov>=4.1.0,<6.0.0              # Coverage reporting
 pytest-xdist>=3.3.0,<4.0.0            # Parallel test execution
 pytest-timeout>=2.1.0,<3.0.0          # Test timeouts
